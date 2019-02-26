@@ -2,7 +2,7 @@
 
 电话: 159 1858 3476　　　　　　　 　　　邮箱: lyichaoo@163.com
 
-博客: [lyichao.github.io](https://lyichao.github.io/)　　　　　　　　　 求职意向：React Native / Android 开发　
+博客: [lyichao.github.io](https://lyichao.github.io/)　　　　　　　　　  求职意向：React Native / Android 开发　
 
 ---
 
@@ -28,7 +28,9 @@
 
   为公司节约了4个劳动力成本支出的同时也缩短了App开发周期，带来了十分不错的经济收益。
 
-- 
+- 辅导公司新人快速学习React Native，获得主管的认可并在其建议下，为公司提供了一套合适的新人成长计划。
+
+- 负责麻雀好车、好车芝嘛、保修联盟、GBOX销售、GBOX售后、车商联盟等多个App的开发与维护。为公司客户提供多款高质量的、体验良好的App，且获得公司客户不错的反馈。
 
 ---
 
