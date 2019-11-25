@@ -2,27 +2,27 @@
 
 电话: 159 1858 3476　　　　　　　 　　　邮箱: lyichaoo@163.com
 
-博客: [lyichao.github.io](https://lyichao.github.io/)　　　　　　　　　  求职意向：React Native 开发　
+博客: [lyichao.github.io](https://lyichao.github.io/)　　　　　　　　　  求职意向：App 开发　
 
 ## 专业技能
 
 * 了解 React Native 的基本实现原理及生命周期，熟悉组件间的通信和数据的管理
 * 熟悉JavaScript语言、 ES6语法，具备良好的编码风格
-* 熟悉 Reac tNative 高性能编程，有Reac tNative 性能调优经验
+* 熟悉 React Native 高性能编程，有React Native 性能调优经验
 * 拥有原生 Android 开发经验，参与过原生 Android 项目的开发
 * 有良好的记录习惯，持续使用博客记录并分享React Native & Android 等开发经验
 
 ## 工作经历
 
-#### 2019.03 - 至今 | 美得得科技 | React Native 开发
+#### 2019.03 - 2019.09 | 美得得科技 | React Native 开发
 
-#### 2017.08 - 2019.03 | 奇立智云科技 | React Native 开发
+#### 2017.08 - 2019.03 | 奇立智云科技 | React Native 开发 / Android 开发
 
 ## 项目经验
 
 近两年全程参与项目10+，负责的主要项目如下：
 
-#### 2019.03 - 至今 | 美得得 | 美得得科技
+#### 2019.03 -2019.09 | 美得得 | 美得得科技
 
 项目简介：一款基于线下美妆门店的会员制社交零售平台打造的电商App。目前使用商家超过2.8万家，
 
