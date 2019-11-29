@@ -11,6 +11,7 @@
 * 熟悉 React Native 高性能编程，有React Native 性能调优经验
 * 拥有原生 Android 开发经验，参与过原生 Android 项目的开发
 * 有良好的记录习惯，持续使用博客记录并分享React Native & Android 等开发经验
+* 熟悉敏捷开发及项目管理工作
 
 ## 工作经历
 
